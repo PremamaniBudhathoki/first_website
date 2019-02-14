@@ -2,3 +2,4 @@
 Just a front end practice using the bootstrap framework and parallax using rallax_js
 
 Here, I have edited something in this file. So, don't be confused seeing this file guys.
+updated
