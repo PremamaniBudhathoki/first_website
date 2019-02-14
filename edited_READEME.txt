@@ -3,3 +3,4 @@ Just a front end practice using the bootstrap framework and parallax using ralla
 
 Here, I have edited something in this file. So, don't be confused seeing this file guys.
 updated
+
